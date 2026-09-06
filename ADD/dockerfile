@@ -1,3 +1,3 @@
-FROM amlalinux:9
+FROM almalinux:9
 ADD https://github.com/naresh6300354/dockerfiles/blob/main/From/Docker/Run/LABEL/dockerfile /tmp/dockerfile /tmp/dockerfile
 CMD ["sleep","100"]
