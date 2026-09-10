@@ -1,0 +1,4 @@
+FROM almalinux:9
+CMD ["ping", "-c", "google.com"]
+
+CMD ["sleep","300"]
