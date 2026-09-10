@@ -1,1 +1,3 @@
 FROM mysql:8.0
+
+RUN adduser -r expense
